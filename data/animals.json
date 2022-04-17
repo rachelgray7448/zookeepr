@@ -108,6 +108,22 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "sam",
+      "species": "tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "sam",
+      "species": "tiger",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "12"
     }
   ]
 }
